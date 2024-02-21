@@ -30,7 +30,9 @@ The components of this project include:
 
 ## How to RUN
 - Make sure you have installed Java before running the code
+
 Server
+
 - Run the program using the "make" command.
 - The port number used is 2233
 - Later use the command "make server" command.
@@ -46,6 +48,7 @@ Server
 The client connection must be established once the server connection is established.
 
 Client
+
 - Switch to another terminal for the Client
 - Connect with the server using the "make clientPerson" command later.
 
